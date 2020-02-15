@@ -5,24 +5,31 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Projects](#projects)
+- [Tools and Libraries](#tools-and-libraries)
 
 
-## Section
+## Projects
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Fluid flow](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Vector fields](https://anvaka.github.io/fieldplay)
+- [Markov chains](http://setosa.io/ev/markov-chains/)
+- [Quaternions](https://eater.net/quaternions)
+- [Chaotic equations visualization](https://chaos-equations.glitch.me/?p=VNYAVO)
+- [Concepts visualizations](https://conceptviz.github.io/)
+- [Illustrative group theory book](http://www.coloring-book.co/)
+- [Fourier introduction](http://www.jezzamon.com/fourier/)
+- [Math visualizations](https://visualizingmath.tumblr.com/)
+- [ANN visualizations](https://colah.github.io/)
+- [Mathigon](https://mathigon.org/) - Interactive textbook
+- [Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+- [Explorable explanations](https://ncase.me/)
 
+## Tools and Libraries
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Manim](https://github.com/3b1b/manim) - Mathematical animation engine
 
 
 ## Contribute
