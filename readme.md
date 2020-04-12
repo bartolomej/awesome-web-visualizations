@@ -26,6 +26,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Mathigon](https://mathigon.org/) - Interactive textbook
 - [Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 - [Explorable explanations](https://ncase.me/)
+- [prajwalsouza.github.io](https://prajwalsouza.github.io/)
 
 ## Tools and Libraries
 
