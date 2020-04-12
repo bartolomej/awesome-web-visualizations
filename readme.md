@@ -11,8 +11,6 @@
 
 ## Projects
 
-About this section. Optional. Keep this short and focus on the list.
-
 - [Fluid flow](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Vector fields](https://anvaka.github.io/fieldplay)
 - [Markov chains](http://setosa.io/ev/markov-chains/)
@@ -27,6 +25,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 - [Explorable explanations](https://ncase.me/)
 - [prajwalsouza.github.io](https://prajwalsouza.github.io/)
+- [Butterchurn Visualizer](https://butterchurnviz.com/)
 
 ## Tools and Libraries
 
