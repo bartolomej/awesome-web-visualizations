@@ -13,6 +13,7 @@
 
 - [Code Galaxies](https://anvaka.github.io/pm/#/?_k=qupjwr)
 - [All pages lead to Philosophy](https://www.xefer.com/wikipedia)
+- [NPM dependencies graph](http://npm.anvaka.com/#/)
 
 ## Mathematics
 
