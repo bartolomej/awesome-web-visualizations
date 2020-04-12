@@ -1,6 +1,6 @@
-# Awesome Math Visualization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Visualizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of mathematical visualizations.
+> A curated list of web visualization projects.
 
 
 ## Contents
@@ -9,7 +9,12 @@
 - [Tools and Libraries](#tools-and-libraries)
 
 
-## Projects
+## Computer Science
+
+- [Code Galaxies](https://anvaka.github.io/pm/#/?_k=qupjwr)
+- [All pages lead to Philosophy](https://www.xefer.com/wikipedia)
+
+## Mathematics
 
 - [Fluid flow](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Vector fields](https://anvaka.github.io/fieldplay)
