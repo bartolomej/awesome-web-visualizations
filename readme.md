@@ -17,6 +17,7 @@
 
 ## Mathematics
 
+- [Seeing Theory](https://seeing-theory.brown.edu/) - A visual introduction to probability and statistics.
 - [Fluid flow](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Vector fields](https://anvaka.github.io/fieldplay)
 - [Markov chains](http://setosa.io/ev/markov-chains/)
@@ -32,7 +33,7 @@
 - [Explorable explanations](https://ncase.me/)
 - [prajwalsouza.github.io](https://prajwalsouza.github.io/)
 - [Butterchurn Visualizer](https://butterchurnviz.com/)
-
+- [acko.net](http://acko.net/)
 ## Tools and Libraries
 
 - [Manim](https://github.com/3b1b/manim) - Mathematical animation engine
