@@ -14,6 +14,7 @@
 - [Code Galaxies](https://anvaka.github.io/pm/#/?_k=qupjwr)
 - [All pages lead to Philosophy](https://www.xefer.com/wikipedia)
 - [NPM dependencies graph](http://npm.anvaka.com/#/)
+- [Minute Labs](https://minutelabs.io/)
 
 ## Mathematics
 
@@ -34,8 +35,8 @@
 - [prajwalsouza.github.io](https://prajwalsouza.github.io/)
 - [Butterchurn Visualizer](https://butterchurnviz.com/)
 - [acko.net](http://acko.net/)
-## Tools and Libraries
 
+## Tools and Libraries
 - [Manim](https://github.com/3b1b/manim) - Mathematical animation engine
 
 
