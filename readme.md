@@ -18,6 +18,7 @@
 
 ## Mathematics
 
+- [Complex Analysis](https://complex-analysis.com/) - online book with visual examples
 - [Seeing Theory](https://seeing-theory.brown.edu/) - A visual introduction to probability and statistics.
 - [Fluid flow](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Vector fields](https://anvaka.github.io/fieldplay)
