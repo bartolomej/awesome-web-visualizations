@@ -36,6 +36,8 @@
 - [prajwalsouza.github.io](https://prajwalsouza.github.io/)
 - [Butterchurn Visualizer](https://butterchurnviz.com/)
 - [acko.net](http://acko.net/)
+- [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
+- [Dynamic Mathematics](https://www.dynamicmath.xyz/)
 
 ## Tools and Libraries
 - [Manim](https://github.com/3b1b/manim) - Mathematical animation engine
