@@ -42,6 +42,8 @@
 ## Tools and Libraries
 - [Manim](https://github.com/3b1b/manim) - Mathematical animation engine
 
+## Blogs
+- [ownkng.dev](https://www.ownkng.dev/)
 
 ## Contribute
 
