@@ -1,12 +1,6 @@
 # Awesome Web Visualizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of web visualization projects.
-
-
-## Contents
-
-- [Projects](#projects)
-- [Tools and Libraries](#tools-and-libraries)
+> A curated list of cool visualization on the web.
 
 
 ## Computer Science
