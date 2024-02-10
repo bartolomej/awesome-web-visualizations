@@ -33,6 +33,10 @@
 - [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
 - [Dynamic Mathematics](https://www.dynamicmath.xyz/)
 
+## Misc
+
+- [Hueplot](https://hueplot.ardov.me/) - Color spaces visualized
+
 ## Tools and Libraries
 - [Manim](https://github.com/3b1b/manim) - Mathematical animation engine
 
