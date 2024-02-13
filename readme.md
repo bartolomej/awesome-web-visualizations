@@ -33,6 +33,10 @@
 - [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
 - [Dynamic Mathematics](https://www.dynamicmath.xyz/)
 
+## Physics
+
+- [Bartosz Ciechanowski](https://ciechanow.ski)
+
 ## Misc
 
 - [Hueplot](https://hueplot.ardov.me/) - Color spaces visualized
